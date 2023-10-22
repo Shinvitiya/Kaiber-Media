@@ -14,7 +14,7 @@ const TestimonialCard = () => {
         initial="initial"
         whileHover="hover"
         >
-        <p className='text-semibold text-2xl max-w-[500px]'>The graphic design agency exceeded our expectations, delivering stunning visuals that truly define our brand.</p>
+        <p className='text-semibold text-2xl max-w-[500px]'>The team at Kaiber exceeded our expectations, delivering stunning visuals that truly define our brand.</p>
         <div className='flex items-center gap-x-4'>
             <Image 
                 src="/call.png"

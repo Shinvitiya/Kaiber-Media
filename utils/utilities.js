@@ -165,10 +165,10 @@ export const QA = [
     },
     // Attributions Tab
     {
-        tabName: "Popsy",
+        tabName: "Attributions",
         linkName:[
             {
-                title: "Lordicon",
+                title: "Popsy",
                 link: "https://popsy.co/"
             },
             {
