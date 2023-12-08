@@ -23,7 +23,7 @@ export default function Home() {
   }, [])
   return (
     <>
-    <div className="max-w-[1560px] flex flex-col items-center justify-center px-4 gap-y-3 md:gap-y-5 py-5">
+    <div className="flex flex-col px-4 gap-y-3 md:gap-y-5 py-5">
       <Hero />
       <GetStarted/>
       <Work/>

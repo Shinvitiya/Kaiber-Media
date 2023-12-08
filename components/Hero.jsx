@@ -23,7 +23,7 @@ const Hero = () => {
                 <div className='bg-gray-200 rounded-2xl px-2 py-1 border border-black'>
                     <span className='text-base 3xl:text-lg font-semibold'>Welcome</span>
                 </div>
-                <h1 className='font-bold capitalize text-5xl lg:text-6xl xl:7xl relative shadow-white'>Designing your Creaative Vision</h1>
+                <h1 className='font-bold capitalize text-5xl lg:text-6xl xl:7xl relative shadow-white'>Designing your Creative Vision</h1>
             </div>
 
             <div className='w-full h-full bg-pastel-blue rounded-2xl gap-3 p-3 flex  flex-col justify-center border-2 border-black bg-white-alt'>

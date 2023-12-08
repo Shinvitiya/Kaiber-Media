@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={lexend.className}>
           <Navbar />
-          <div className="w-full sm:justify-center sm:flex">  
+          <div className="w-fit justify-center items-center flex flex-col">  
           {children}
           </div>
           
